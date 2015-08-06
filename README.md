@@ -20,7 +20,7 @@ The pure JavaScript Bitcoin library for node.js and browsers packed for meteor. 
 ## Get Started
 
 ```
-meteor install ca333:bitcoinjs
+meteor add ca333:bitcoinjs
 ```
 
 Using it in Meteor:
